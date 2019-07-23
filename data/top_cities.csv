@@ -1,0 +1,53 @@
+municipality_name,location_id,province_id
+Vitoria-Gasteiz,1059,1
+Albacete,2003,2
+Alicante/Alacant,3014,3
+Almería,4013,4
+Ávila,5019,5
+Badajoz,6015,6
+Palma de Mallorca,7040,7
+Barcelona,8019,8
+Burgos,9059,9
+Cáceres,10037,10
+Cádiz,11012,11
+Castellón de la Plana/Castelló de la Plana,12040,12
+Ciudad Real,13034,13
+Santiago de Compostela,15078,15
+Córdoba,14021,14
+"Coruña, A",15030,15
+Cuenca,16078,16
+Girona,17079,17
+Granada,18087,18
+Guadalajara,19130,19
+Donostia/San Sebastián,20069,20
+Huelva,21041,21
+Huesca,22125,22
+Jaén,23050,23
+León,24089,24
+Lleida,25120,25
+Logroño,26089,26
+Lugo,27028,27
+Madrid,28079,28
+Málaga,29067,29
+Murcia,30030,30
+Pamplona/Iruña,31201,31
+Ourense,32054,32
+Gijón,33024,33
+Oviedo,33044,33
+Palencia,34120,34
+"Palmas de Gran Canaria, Las",35016,35
+Vigo,36057,36
+Salamanca,37274,37
+Santa Cruz de Tenerife,38038,38
+Santander,39075,39
+Segovia,40194,40
+Sevilla,41091,41
+Soria,42173,42
+Tarragona,43148,43
+Teruel,44216,44
+Toledo,45168,45
+Valencia,46250,46
+Valladolid,47186,47
+Bilbao,48020,48
+Zamora,49275,49
+Zaragoza,50297,50
